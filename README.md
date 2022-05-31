@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Varun Seereeram (@varunseereeram)
 - 👀 I’m interested in the standard stuff ;) - ☕️🍔📺🎮🎧💻✈️
 - 🌱 Born in, and currently based out of Trinidad and Tobago 🇹🇹
-- 💞️ I’m looking to collaborate on Open Source (obviously, lol) projects in JS, TS, and Smart Home Apps. I have experience is the full stack.
+- 💞️ I’m currently looking to collaborate on Open Source projects in JS, TS, and Smart Home. I have experience in full stack app development.
 - 📫 How to reach me - Email (GitHub userame @ gmail) - you can decifer, if you're not a bot 😉 
 
 <!---
