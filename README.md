@@ -2,7 +2,7 @@
 - 👀 I’m interested in the standard stuff ;) - ☕️🍔📺🎮🎧💻✈️
 - 🌱 Born in, and currently based out of Trinidad and Tobago 🇹🇹
 - 💞️ I’m currently looking to collaborate on Open Source and ML projects.
-- 📫 How to reach me - Email (GitHub userame @ gmail) - you can decifer, if you're not a bot 😉 
+- 📫 How to reach me - email (GH userame @ gmail) - you can decifer, if you're not a bot 😉 
 
 <!---
 varunseereeram/varunseereeram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
